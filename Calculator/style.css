@@ -1,0 +1,28 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family:'Times New Roman', Times, serif; 
+}
+.row{ 
+  background-color: #3a4452;
+  padding: 20px;
+  display: inline-block;
+}
+ .button{
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px; 
+  border: 2px ;
+  border-radius: 9px;
+  font-style: calc();
+  cursor: pointer;
+} 
+
+.row input{
+  width: 291px;
+  font-size: 20px;
+    margin: 0 3px;
+   padding: 10px 0px; 
+    border: 2px solid navy;
+    border-radius: 5px;
+}
